@@ -1,0 +1,22 @@
+
+body{
+    padding-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+#target{
+    font-size: 80px;
+    letter-spacing: 2px;
+    padding: 30px;
+}
+.info{
+    color: #030303;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.container{
+    width: 80%;
+    height: 100%;
+    background-color: rgb(152, 253, 127);
+    margin: 0 auto;
+}
